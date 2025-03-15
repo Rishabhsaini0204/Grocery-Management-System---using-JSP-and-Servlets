@@ -1,6 +1,25 @@
 # Grocery-Management-System-using-JSP-and-Servlets
 Grocery Management System - using JSP and Servlets + MYSQL DATABASE 
 
+
+Contact & Support
+For queries and support, feel free to reach out:
+
+🌐 Website: [updategadh.com](https://updategadh.com/)
+
+📧 Email: Mail Rishabhsaini0204@gmail.com
+
+📱 WhatsApp: [Chat Now](https://wa.me/917983434684)
+
+📱 Telegram: [Chat Now](https://t.me/rishabhsaini0204)
+
+🔜 Instagram: [Follow Now](https://instagr.am/Rishabhsaini016)
+
+📱 Telegram Group: [Join Now](https://t.me/Projectwithsourcecodes)
+
+📺 YouTube Channel: [Subscribe](https://www.youtube.com/decodeit2/video)
+
+
 # Grocery Management System using JSP and Servlets
 
 ## Introduction
@@ -86,6 +105,14 @@ Ensure the following software/tools are installed:
 - **Email:** `guest@gmail.com`
 - **Password:** `guest`
 
+
+![image](https://github.com/user-attachments/assets/afa7422a-e553-442b-b234-79b9af521987)
+![image](https://github.com/user-attachments/assets/3f4121bf-b417-4ebe-b365-2c74606d73ab)
+![image](https://github.com/user-attachments/assets/022098cb-4332-453a-af96-7728c81fbeab)
+
+
+
+
 ## Project Structure
 ```
 Grocery-Management-System/
@@ -109,6 +136,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ## License
 This project is licensed under the MIT License.
 
+
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by decodeit
 
