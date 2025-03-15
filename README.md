@@ -1,6 +1,12 @@
 # Grocery-Management-System-using-JSP-and-Servlets
 Grocery Management System - using JSP and Servlets + MYSQL DATABASE 
 
+![image](https://github.com/user-attachments/assets/afa7422a-e553-442b-b234-79b9af521987)
+![image](https://github.com/user-attachments/assets/3f4121bf-b417-4ebe-b365-2c74606d73ab)
+![image](https://github.com/user-attachments/assets/022098cb-4332-453a-af96-7728c81fbeab)
+
+
+Demo Video :- [https://www.youtube.com/watch?v=splJQB1tync](https://www.youtube.com/watch?v=splJQB1tync)
 
 Contact & Support
 For queries and support, feel free to reach out:
@@ -104,11 +110,6 @@ Ensure the following software/tools are installed:
 ### User
 - **Email:** `guest@gmail.com`
 - **Password:** `guest`
-
-
-![image](https://github.com/user-attachments/assets/afa7422a-e553-442b-b234-79b9af521987)
-![image](https://github.com/user-attachments/assets/3f4121bf-b417-4ebe-b365-2c74606d73ab)
-![image](https://github.com/user-attachments/assets/022098cb-4332-453a-af96-7728c81fbeab)
 
 
 
